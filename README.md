@@ -3,3 +3,11 @@ This is a customized version of the LiquidCrystal_I2C Library designed to work w
 To use it, extract the 'LiquidCrystal_I2C.h' folder into your arduino Libraries directory and restart your arduino IDE.
 
 It is based on an open source version made by DFRobot: http://www.dfrobot.com/image/data/DFR0154/LiquidCrystal_I2Cv1-1.rar
+
+Installation
+=============
+Clone repository and copy folder LiquidCrystal_I2C to libraries folder (Example: C:\Program Files (x86)\Arduino\libraries or C:\Program Files\Arduino\libraries)
+
+Documentation
+=============
+
