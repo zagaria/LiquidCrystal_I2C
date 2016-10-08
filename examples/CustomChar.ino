@@ -3,6 +3,7 @@
 
 LiquidCrystal_I2C lcd(0x27,16,2);  // set the LCD address to 0x27 for a 16 chars and 2 line display
 
+//You can create your character use https://omerk.github.io/lcdchargen/
 byte heart[8] = {
   0b00000,
   0b01010,
